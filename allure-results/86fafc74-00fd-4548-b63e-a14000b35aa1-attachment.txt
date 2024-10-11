@@ -1,0 +1,99 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                               Test Method: 'AllProductsTests.validateAllProducts'                                               
+                                       Test Description: 'Validate All Products and product details page'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @06-10-2024 19:27:05.0223 PM
+[ReportManager] Initial URL: "about:blank" @06-10-2024 19:27:05.0248 PM
+[ReportManager] Navigate to url "https://automationexercise.com/". @06-10-2024 19:27:14.0220 PM
+[ReportManager] Verify that the element located by "By.xpath: //a[@style="color: orange;"]" text contains "Home". @06-10-2024 19:27:14.0278 PM
+[ReportManager] Expected "Home", and actual "Home" @06-10-2024 19:27:14.0588 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-27-27-377_06102024' @06-10-2024 19:27:27.0393 PM
+[ReportManager] Expected "Home", and actual "Home" @06-10-2024 19:27:27.0393 PM
+[ReportManager] Verification passed @06-10-2024 19:27:27.0408 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-10-2024 19:27:27.0726 PM
+[ReportManager] Click " Products". @06-10-2024 19:27:36.0143 PM
+[ReportManager] Verify that the element located by "By.xpath: //h2[@class="title text-center"]" text is equal to "ALL PRODUCTS". @06-10-2024 19:27:36.0148 PM
+[ReportManager] Expected "ALL PRODUCTS", and actual "ALL PRODUCTS" @06-10-2024 19:27:36.0406 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-27-46-596_06102024' @06-10-2024 19:27:46.0628 PM
+[ReportManager] Expected "ALL PRODUCTS", and actual "ALL PRODUCTS" @06-10-2024 19:27:46.0628 PM
+[ReportManager] Verification passed @06-10-2024 19:27:46.0628 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="left-sidebar"]" text contains "CATEGORY". @06-10-2024 19:27:46.0628 PM
+[ReportManager] Expected "CATEGORY", and actual "CATEGORY
+WOMEN
+MEN
+KIDS
+BRANDS
+(6)
+POLO
+(5)
+H&M
+(5)
+MADAME
+(3)
+MAST & HARBOUR
+(4)
+BABYHUG
+(3)
+ALLEN SOLLY JUNIOR
+(3)
+KOOKIE KIDS
+(5)
+BIBA" @06-10-2024 19:27:46.0849 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-27-57-364_06102024' @06-10-2024 19:27:57.0379 PM
+[ReportManager] Expected "CATEGORY", and actual "CATEGORY
+WOMEN
+MEN
+KIDS
+BRANDS
+(6)
+POLO
+(5)
+H&M
+(5)
+MADAME
+(3)
+MAST & HARBOUR
+(4)
+BABYHUG
+(3)
+ALLEN SOLLY JUNIOR
+(3)
+KOOKIE KIDS
+(5)
+BIBA" @06-10-2024 19:27:57.0379 PM
+[ReportManager] Verification passed @06-10-2024 19:27:57.0379 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-10-2024 19:27:57.0612 PM
+[ReportManager] Click "By.xpath: //a[@href="/product_details/1"]//i". @06-10-2024 19:28:00.0951 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="product-information"]//h2" text contains "Blue Top". @06-10-2024 19:28:00.0951 PM
+[ReportManager] Expected "Blue Top", and actual "Blue Top" @06-10-2024 19:28:01.0161 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-28-02-756_06102024' @06-10-2024 19:28:02.0772 PM
+[ReportManager] Expected "Blue Top", and actual "Blue Top" @06-10-2024 19:28:02.0772 PM
+[ReportManager] Verification passed @06-10-2024 19:28:02.0772 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class='product-information']//p[1]" text contains "Category". @06-10-2024 19:28:02.0772 PM
+[ReportManager] Expected "Category", and actual "Category: Women > Tops" @06-10-2024 19:28:02.0914 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-28-04-529_06102024' @06-10-2024 19:28:04.0529 PM
+[ReportManager] Expected "Category", and actual "Category: Women > Tops" @06-10-2024 19:28:04.0538 PM
+[ReportManager] Verification passed @06-10-2024 19:28:04.0538 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="product-information"]//span//span" text contains "Rs.". @06-10-2024 19:28:04.0538 PM
+[ReportManager] Expected "Rs.", and actual "Rs. 500" @06-10-2024 19:28:04.0704 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-28-06-315_06102024' @06-10-2024 19:28:06.0315 PM
+[ReportManager] Expected "Rs.", and actual "Rs. 500" @06-10-2024 19:28:06.0315 PM
+[ReportManager] Verification passed @06-10-2024 19:28:06.0315 PM
+[ReportManager] Verify that the element located by "By.xpath: //p/b[contains(text(),'Availability')]" text contains "Availability". @06-10-2024 19:28:06.0315 PM
+[ReportManager] Expected "Availability", and actual "Availability:" @06-10-2024 19:28:06.0489 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-28-07-906_06102024' @06-10-2024 19:28:07.0906 PM
+[ReportManager] Expected "Availability", and actual "Availability:" @06-10-2024 19:28:07.0906 PM
+[ReportManager] Verification passed @06-10-2024 19:28:07.0922 PM
+[ReportManager] Verify that the element located by "By.xpath: //p/b[contains(text(),'Condition')]" text contains "Condition". @06-10-2024 19:28:07.0922 PM
+[ReportManager] Expected "Condition", and actual "Condition:" @06-10-2024 19:28:08.0111 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-28-09-554_06102024' @06-10-2024 19:28:09.0566 PM
+[ReportManager] Expected "Condition", and actual "Condition:" @06-10-2024 19:28:09.0566 PM
+[ReportManager] Verification passed @06-10-2024 19:28:09.0566 PM
+[ReportManager] Verify that the element located by "By.xpath: //p/b[contains(text(),'Brand')]" text contains "Brand". @06-10-2024 19:28:09.0571 PM
+[ReportManager] Expected "Brand", and actual "Brand:" @06-10-2024 19:28:09.0727 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_19-28-11-201_06102024' @06-10-2024 19:28:11.0217 PM
+[ReportManager] Expected "Brand", and actual "Brand:" @06-10-2024 19:28:11.0217 PM
+[ReportManager] Verification passed @06-10-2024 19:28:11.0217 PM
